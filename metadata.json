@@ -1,0 +1,8 @@
+{
+  "name": "FocusForge",
+  "description": "High-agency academic discipline, timetable, deep-work study hub, and stoic mindset tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
